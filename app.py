@@ -163,10 +163,10 @@ elif st.session_state.step == 2:
     # YOUR SPECIAL PHOTO
 
     st.image(
-        r"C:\Users\Archita Dutta\Downloads\I love u.jpeg",
-        caption="A little memory to remember ❤️",
-        use_container_width=True
-    )
+    "I love u.jpeg",
+    caption="A little memory to remember ❤️",
+    use_container_width=True
+)
 
     st.markdown("""
     ### Distance doesn't erase memories. ❤️
